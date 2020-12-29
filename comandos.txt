@@ -1,0 +1,56 @@
+deletar
+readme
+reportWebVitals
+app.css
+appteste
+index.css
+logo.svg
+
+1 - alterar o app.tsx
+
+const App: React.FC = () => (
+  <h1>Hello World</h1>
+);
+
+
+2 - index.tsx
+remover os import
+
+
+3 - setupteste
+tirar comentarios
+
+4 - pasta public
+remover favicon.icon
+logo
+manifesto
+
+5 - no arquivo index
+tirar o favicon
+tirar o meta descripition
+trocar o titulo
+remover comentarios
+
+****************************************************************
+criar a pasta styles
+ yarn add styled-components
+ yarn add @types/styled-components -D
+
+ criar arquivo global o global-style
+ incluo no app
+ executo a pagina
+
+ crio a pasta pages
+ crio a primeira pagina de SigIn
+
+
+yarn add react-icons
+
+yarn add @unform/core
+@unform/web
+
+@unform/mobile
+
+yarn add yup
+yarn add @types/yup -D
+
